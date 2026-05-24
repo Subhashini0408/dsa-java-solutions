@@ -7,6 +7,7 @@ Check every possible pair using nested loops.
 Time Complexity: O(n^2)
 Space Complexity: O(1)
 */
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
 
@@ -23,6 +24,8 @@ class Solution {
         return new int[]{-1 , -1};
 }
 }
+
+
 /*
 Problem: Two Sum
 
@@ -33,6 +36,8 @@ For every element, check whether its complement exists.
 Time Complexity: O(n)
 Space Complexity: O(n)
 */
+
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
 
