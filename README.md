@@ -21,7 +21,7 @@ This repository contains clean and optimized Java solutions for popular coding i
 | 9 | Rotate Image | Arrays (Matrix) | 🟡 Medium | Transpose + Reverse - O(n²) | [View Code](./Arrays/Rotatelmage.java) |
 | 10 | Set Matrix Zeroes (Brute Force) | Arrays (Matrix) | 🟡 Medium | Boolean Row & Column Arrays - TC: O(n × m), SC: O(m + n) | [View Code](./Arrays/SetMatrixZeroesBruteforce.java) |
 | 11 | Set Matrix Zeroes (Optimized) | Arrays (Matrix) | 🟡 Medium | In-place Marking Technique - TC: O(n × m), SC: O(1) | [View Code](./Arrays/SetMatrixZeroesOptimized.java) |
-| 12 | Spiral Matrix | Arrays (Matrix) | 🟡 Medium | 4 Boundaries Layer-by-layer Simulation - TC: O(m × n), SC: O(1) | [View Code](./Arrays/SpiralMatrix.java) |
+
 
 ---
 
