@@ -53,5 +53,5 @@ DSA-Java-Solutions/
 │   ├── Rotatelmage.java
 │   ├── SetMatrixZeroesBruteforce.java
 │   ├── SetMatrixZeroesOptimized.java
-│   └── SpiralMatrix.java
+
 ```
