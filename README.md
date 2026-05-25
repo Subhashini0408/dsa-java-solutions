@@ -7,6 +7,7 @@ This repository contains clean and optimized Java solutions for popular coding i
 
 ## 📊 Problem Tracking Table
 
+
 | # | Problem Name | Topic | Difficulty | Approach & Complexity | Solution Link |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 1 | Two Sum | Arrays | 🟢 Easy | Brute Force - O(n²) <br> Optimized HashMap - O(n) | [View Code](./Arrays/TwoSumBruteoroptimized.java) |
@@ -19,8 +20,9 @@ This repository contains clean and optimized Java solutions for popular coding i
 | 8 | Container With Most Water | Arrays | 🟡 Medium | Two Pointer Greedy - O(n) | [View Code](./Arrays/ContainerWithMostWater.java) |
 | 9 | Rotate Image | Arrays (Matrix) | 🟡 Medium | Transpose + Reverse - O(n²) | [View Code](./Arrays/Rotatelmage.java) |
 | 10 | Set Matrix Zeroes (Brute Force) | Arrays (Matrix) | 🟡 Medium | Boolean Row & Column Arrays - TC: O(n × m), SC: O(m + n) | [View Code](./Arrays/SetMatrixZeroesBruteforce.java) |
-
 | 11 | Set Matrix Zeroes (Optimized) | Arrays (Matrix) | 🟡 Medium | In-place Marking Technique - TC: O(n × m), SC: O(1) | [View Code](./Arrays/SetMatrixZeroesOptimized.java) |
+| 12 | Spiral Matrix | Arrays (Matrix) | 🟡 Medium | 4 Boundaries Layer-by-layer Simulation - TC: O(m × n), SC: O(1) | [View Code](./Arrays/SpiralMatrix.java) |
+
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -50,6 +52,6 @@ DSA-Java-Solutions/
 │   ├── ContainerWithMostWater.java
 │   ├── Rotatelmage.java
 │   ├── SetMatrixZeroesBruteforce.java
-│   └── SetMatrixZeroesOptimized.java
-│
-└── README.md
+│   ├── SetMatrixZeroesOptimized.java
+│   └── SpiralMatrix.java
+```
