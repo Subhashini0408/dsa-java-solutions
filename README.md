@@ -21,7 +21,6 @@ This repository contains clean and optimized Java solutions for popular coding i
 | 10 | Set Matrix Zeroes (Brute Force) | Arrays (Matrix) | 🟡 Medium | Boolean Row & Column Arrays - TC: O(n × m), SC: O(m + n) | [View Code](./Arrays/SetMatrixZeroesBruteforce.java) |
 
 | 11 | Set Matrix Zeroes (Optimized) | Arrays (Matrix) | 🟡 Medium | In-place Marking Technique - TC: O(n × m), SC: O(1) | [View Code](./Arrays/SetMatrixZeroesOptimized.java) |
-
 ---
 
 ## 🛠️ Tech Stack & Skills
