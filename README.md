@@ -18,7 +18,9 @@ This repository contains clean and optimized Java solutions for popular coding i
 | 7 | Maximum Subarray | Arrays | 🟡 Medium | Kadane’s Algorithm - O(n) | [View Code](./Arrays/Kadane'sAlgorithmMaximumSubarray.java) |
 | 8 | Container With Most Water | Arrays | 🟡 Medium | Two Pointer Greedy - O(n) | [View Code](./Arrays/ContainerWithMostWater.java) |
 | 9 | Rotate Image | Arrays (Matrix) | 🟡 Medium | Transpose + Reverse - O(n²) | [View Code](./Arrays/Rotatelmage.java) |
-| 10 | Set Matrix Zeroes | Arrays (Matrix) | 🟡 Medium | Space Optimized Approach - O(n × m) | [View Code](./Arrays/SetMatrixZeroesOptimized.java) |
+| 10 | Set Matrix Zeroes (Brute Force) | Arrays (Matrix) | 🟡 Medium | Boolean Row & Column Arrays - TC: O(n × m), SC: O(m + n) | [View Code](./Arrays/SetMatrixZeroesBruteforce.java) |
+
+| 11 | Set Matrix Zeroes (Optimized) | Arrays (Matrix) | 🟡 Medium | In-place Marking Technique - TC: O(n × m), SC: O(1) | [View Code](./Arrays/SetMatrixZeroesOptimized.java) |
 
 ---
 
@@ -48,6 +50,7 @@ DSA-Java-Solutions/
 │   ├── Kadane'sAlgorithmMaximumSubarray.java
 │   ├── ContainerWithMostWater.java
 │   ├── Rotatelmage.java
+│   ├── SetMatrixZeroesBruteforce.java
 │   └── SetMatrixZeroesOptimized.java
 │
 └── README.md
