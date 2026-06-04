@@ -24,6 +24,7 @@ This repository contains clean and optimized Java solutions for popular coding i
 | 12 | Spiral Matrix | Arrays (Matrix) | 🟡 Medium | Boundary Traversal using Top, Bottom, Left, Right Pointers - TC: O(n × m), SC: O(1) | [View Code](./Arrays/SpiralMatrix.java) |
 | 13 | Spiral Matrix II | Arrays (Matrix) | 🟡 Medium | Boundary Traversal / Spiral Filling using Top, Bottom, Left, Right Pointers - TC: O(n²), SC: O(1) | [View Code](./Arrays/SpiralMatrix2.java) |
 | 14 | Merge Sort | Sorting | 🟡 Medium | Divide and Conquer (Recursive Merge Sort) - TC: O(n log n), SC: O(n) | [View Code](./Sorting/MergeSort.java) |
+| 15 | Reverse Pairs | Arrays | 🔴 Hard | Modified Merge Sort (Count Cross Pairs Before Merge) - TC: O(n log n), SC: O(n) | [View Code](./Arrays/ReversePairs.java) |
 
 
 ---
@@ -58,5 +59,7 @@ DSA-Java-Solutions/
 │   ├── SetMatrixZeroesOptimized.java
 |   ├── SpiralMatrix.java
 |   ├── SpiralMatrix2.java
+|   ├── MergeSort.java
+|   ├── ReversePairs.java
 
 ```
