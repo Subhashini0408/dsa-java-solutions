@@ -1,3 +1,24 @@
+/*
+ * Longest Common Prefix - Binary Search
+ *
+ * Approach:
+ * - Find the length of the shortest string.
+ * - Apply Binary Search on the prefix length.
+ * - Check whether the prefix is common to all strings.
+ * - If valid, search for a longer prefix.
+ * - Otherwise, search for a shorter prefix.
+ *
+ * Example:
+ * Input:  ["flower", "flow", "flight"]
+ * Output: "fl"
+ *
+ * Time Complexity: O(N * M * log M)
+ * Space Complexity: O(1)
+ *
+ * N = Number of strings
+ * M = Length of the shortest string
+ */
+
 class Solution {
     private static boolean LongestCommonLength(String[] strs , int mid)
     {
